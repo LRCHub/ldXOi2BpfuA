@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "CHANCE!",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-12T16:15:29.644236Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chance of Lovin' You",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/01_Chance_of_Lovin'_You_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give Me One More Chance",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/02_Give_Me_One_More_Chance_Exile.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give Me One More Chance",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/03_Give_Me_One_More_Chance_Exile.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give Me One More Chance (Album Version)",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/04_Give_Me_One_More_Chance_(Album_Version)_Exile.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One More Last Chance",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/05_One_More_Last_Chance_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One More Last Chance (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/06_One_More_Last_Chance_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Would You Take Another Chance On Me?",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": false,
+      "path": "select/07_Would_You_Take_Another_Chance_On_Me_Jerry_Lee_Lewis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Another Chance",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/08_Another_Chance_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Another Chance",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/09_Another_Chance_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Had Your Chance",
+      "artist": "In Fear and Faith",
+      "has_synced": true,
+      "path": "select/10_You_Had_Your_Chance_In_Fear_and_Faith.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Chance",
+      "artist": "Nicki Minaj feat. Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/11_Last_Chance_Nicki_Minaj_feat._Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Chance (feat. Natasha Bedingfield)",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/12_Last_Chance_(feat._Natasha_Bedingfield)_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Chance Ft. Natasha Bedingfield",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/13_Last_Chance_Ft._Natasha_Bedingfield_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Chance for Peace",
+      "artist": "Lonnie Liston Smith & The Cosmic Echoes",
+      "has_synced": false,
+      "path": "select/14_A_Chance_for_Peace_Lonnie_Liston_Smith_&_The_Cosmic_Echoes.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHANCE!",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_CHANCE!_UVERworld.txt"
+    }
+  ]
+}
